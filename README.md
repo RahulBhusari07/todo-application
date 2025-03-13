@@ -75,4 +75,17 @@ ToDoApplication/
   ```
   http://localhost:8080
   ```
+## 🎯 Project Documentation
+[📝 To-Do Application   Documentation](https://docs.google.com/document/d/1wmMVqeUevmGvQllkielQAyOU-RdBGg9z4_rYdOXdOw8/edit?usp=sharing)
+
+
+## 💡 Contributing
+If you'd like to contribute:
+1. **Fork the repository**
+2. **Create a new branch** (`git checkout -b feature-branch`)
+3. **Make changes & commit** (`git commit -m "Added new feature"`)
+4. **Push changes** (`git push origin feature-branch`)
+5. **Submit a Pull Request (PR)**
+
+
 
